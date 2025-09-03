@@ -1,7 +1,7 @@
 # 📘 CS50x – Introduction to Computer Science
 
 <!-- CS50X_BADGES_START -->
-![Solved](https://img.shields.io/badge/Problems%20Solved-0-success) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-09-03%2012%3A50%20UTC-blue)
+![Solved](https://img.shields.io/badge/Problems%20Solved-0-success) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-09-03%2012%3A51%20UTC-blue)
 <!-- CS50X_BADGES_END -->
 
 This repository contains my personal solutions, notes, and experiments for **[CS50x: Introduction to Computer Science](https://cs50.harvard.edu/x/)** by Harvard University (via edX).  
