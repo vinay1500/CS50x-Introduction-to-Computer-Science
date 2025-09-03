@@ -1,7 +1,7 @@
 # 📘 CS50x – Introduction to Computer Science
 
 <!-- CS50X_BADGES_START -->
-![Solved](https://img.shields.io/badge/Problems%20Solved-2-success) ![C](https://img.shields.io/badge/C-2-informational) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-09-03%2013%3A15%20UTC-blue)
+![Solved](https://img.shields.io/badge/Problems%20Solved-4-success) ![C](https://img.shields.io/badge/C-4-informational) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-09-03%2013%3A17%20UTC-blue)
 <!-- CS50X_BADGES_END -->
 
 This repository contains my personal solutions, notes, and experiments for **[CS50x: Introduction to Computer Science](https://cs50.harvard.edu/x/)** by Harvard University (via edX).  
@@ -16,7 +16,7 @@ CS50x introduces C, algorithms & data structures, memory, Python, SQL, Flask, HT
 | Topic | Status | Problems Solved | Languages | Solutions |
 |-------|--------|------------------|-----------|-----------|
 | Scratch | ⏳ Pending | 0 | — | [View](https://github.com/vinay1500/CS50x-Introduction-to-Computer-Science/tree/main/Week%200%20-%20Scratch) |
-| C: Basics | ✅ Done | 2 | C (2) | [View](https://github.com/vinay1500/CS50x-Introduction-to-Computer-Science/tree/main/Week%201%20-%20C) |
+| C: Basics | ✅ Done | 4 | C (4) | [View](https://github.com/vinay1500/CS50x-Introduction-to-Computer-Science/tree/main/Week%201%20-%20C) |
 | Arrays | ⏳ Pending | 0 | — | [View](https://github.com/vinay1500/CS50x-Introduction-to-Computer-Science/tree/main/Week%202%20-%20Arrays) |
 | Algorithms | ⏳ Pending | 0 | — | [View](https://github.com/vinay1500/CS50x-Introduction-to-Computer-Science/tree/main/Week%203%20-%20Algorithms) |
 | Memory | ⏳ Pending | 0 | — | [View](https://github.com/vinay1500/CS50x-Introduction-to-Computer-Science/tree/main/Week%204%20-%20Memory) |
@@ -38,12 +38,14 @@ CS50x introduces C, algorithms & data structures, memory, Python, SQL, Flask, HT
 _No files yet._
 </details>
 
-<details><summary><strong>C: Basics</strong> — ✅ Done · Problems: 2</summary>
+<details><summary><strong>C: Basics</strong> — ✅ Done · Problems: 4</summary>
 
-**Language Breakdown:** **C**: 2
+**Language Breakdown:** **C**: 4
 
 **Files:**
 - [Week 1 - C/hello.c](./Week%201%20-%20C/hello.c)
+- [Week 1 - C/mario-less/mario.c](./Week%201%20-%20C/mario-less/mario.c)
+- [Week 1 - C/mario-more/mario.c](./Week%201%20-%20C/mario-more/mario.c)
 - [Week 1 - C/me/hello.c](./Week%201%20-%20C/me/hello.c)
 </details>
 
